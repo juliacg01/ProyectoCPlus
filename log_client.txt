@@ -1,0 +1,28 @@
+[15/01/2023 11:09:29]: New Session Started 
+[15/01/2023 11:09:33]: User: Maria - Option: 7
+[15/01/2023 11:09:56]: Add new plane with ID: 123
+[15/01/2023 11:10:03]: User: Maria - Option: 6
+[15/01/2023 11:10:19]: Update plane with ID: 123
+[15/01/2023 11:10:21]: User: Maria - Option: 2
+[15/01/2023 11:10:23]: User: Maria - Option: 3
+[15/01/2023 11:10:29]: User: Maria - Option: 7
+[15/01/2023 11:10:38]: User: Maria - Option: 5
+[15/01/2023 11:10:43]: User: Maria - Option: 1
+[15/01/2023 11:10:43]: Update Client List
+[15/01/2023 11:10:45]: User: Maria - Option: 2
+[15/01/2023 11:10:54]: User: Maria - Option: 3
+[15/01/2023 11:10:56]: User: Maria - Option: 4
+[15/01/2023 11:10:57]: User: Maria - Option: 3
+[15/01/2023 11:10:59]: User: Maria - Option: 2
+[15/01/2023 11:11:02]: User: Maria - Option: 5
+[15/01/2023 11:11:27]: User: Maria - Option: 4
+[15/01/2023 11:11:28]: User: Maria - Option: 4
+[15/01/2023 11:11:30]: User: Maria - Option: 3
+[15/01/2023 11:11:31]: User: Maria - Option: 2
+[15/01/2023 11:11:51]: Incorrect option
+[15/01/2023 11:11:52]: Incorrect option
+[15/01/2023 11:11:54]: User: Maria - Option: 37
+[15/01/2023 11:11:54]: Incorrect option
+[15/01/2023 11:11:56]: Incorrect option
+[15/01/2023 11:11:59]: User: Maria - Option: 0
+[15/01/2023 11:11:59]: Conection closed
